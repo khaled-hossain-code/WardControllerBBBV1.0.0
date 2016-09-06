@@ -1,0 +1,16 @@
+{
+  "name": "ward.controller",
+  "version": "1.0.0",
+  "description": "ward controller of beaglebone",
+  "main": "wardLight.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "khaled",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.1",
+    "octalbonescript": "1.0.x",
+    "socket.io-client": "^1.4.6"
+  }
+}
