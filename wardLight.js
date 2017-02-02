@@ -15,7 +15,7 @@ var payload = {
 var wardLightInterval; //it is a setInterval function
 var presenceIndicationInterval; //this one is also a setInterval Function
 
-// *********** Variables *************\\
+// *********** Variables *************\\\
 var heartState = b.LOW;
 var wardColorState = 'off';
 var presenceColorState = 'off';
